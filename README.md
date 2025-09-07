@@ -28,7 +28,7 @@ This repository aims to provide:
 | **All Generation Tech** | Dhaka | C#, .NET, Python, Go, MongoDB, Docker, Azure, Unqork | [Website](https://allgentech.bamboohr.com/careers) | [LinkedIn](https://www.linkedin.com/company/allgentech/) | - |
 | **Anchorblock Technology** | Dhaka | JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Solidity, ML, AWS | [Website](https://anchorblock.ai/) | [LinkedIn](https://www.linkedin.com/company/anchorblock/) | - |
 | **AppsCode Ltd.** | Dhaka | Golang, Docker, Kubernetes, Vue.js | [Website](https://www.appscode.com/) | [LinkedIn](https://www.linkedin.com/company/appscode/) | ⭐4.1 (Glassdoor) |
-| **Appifydevs** | Sylhet | ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel | [Website](https://www.appifydevs.com/) | [LinkedIn](https://www.linkedin.com/company/appifydevs/) | |
+| **Appifydevs** | Mirpur, Dhaka | ReactJS, Nextjs, NestJS, NodeJS, Flutter, Laravel | [Website](https://www.appifydevs.com/) | [LinkedIn](https://www.linkedin.com/company/appifydevs/) | |
 | **Appifylab** | Sylhet | ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel | [Website](https://www.appifylab.com/) | [LinkedIn](https://www.linkedin.com/company/appifylab/) | ⭐2.6 (Glassdoor) |
 | **Apurba Technologies Ltd.** | Mohakhali, Dhaka | Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, ML | [Website](http://apurba.com.bd) | [LinkedIn](https://www.linkedin.com/company/apurba-technologies-ltd) | - |
 | **Astha IT** | Dhaka | C#, .NET, Java, Spring Boot, JavaScript, React, Vue.js, Angular, Flutter, AWS, Docker, Kubernetes | [Website](https://www.asthait.com/) | [LinkedIn](https://www.linkedin.com/company/asthait/) |  ⭐4.1 (Glassdoor) |
@@ -42,6 +42,21 @@ This repository aims to provide:
 | **Circle Fintech** | Dhaka | IoT, Blockchain, AI, React, JavaScript, Python, Node, Django | [Website](https://www.circlefintech.com/) | [LinkedIn](https://www.linkedin.com/company/circlefintech/) | - |
 | **CodersTrust** | Banani, Dhaka | WordPress, PHP, JavaScript/TypeScript, Python, Scala, Kubernetes, Lambda, AWS | [Website](https://coderstrust.global/) | [LinkedIn](https://www.linkedin.com/company/coderstrust/) | - |
 | **Craftsmen** | Baridhara, Dhaka | JavaScript/TypeScript, Node.js, Python, React/Vue.js, Redux, React Native, AWS, Serverless, AI/ML | [Website](https://www.craftsmenltd.com/) | [LinkedIn](https://www.linkedin.com/company/craftsmenltd) | - |
+
+### D - F
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **DataSoft** | Shyamoli, Dhaka | Java, Spring Boot, C#, .NET, Angular, Vue, jQuery | [Website](http://datasoft-bd.com/) | [LinkedIn](https://www.linkedin.com/company/datasoft-systems-bangladesh-limited/) | ⭐ 2.8 |
+| **Danpite.Tech** | Mirpur, Dhaka | PHP, Laravel, Flutter, ReactJS | [Website](https://danpite.tech/) | [LinkedIn](https://www.linkedin.com/company/danpitetech/) | - |
+| **Dhrubok Infotech Services** | Shyamoli, Dhaka | Java, Spring Boot, JavaScript, React, NextJs, Android, iOS, Flutter | [Website](https://dhrubokinfotech.com/) | [LinkedIn](https://www.linkedin.com/company/dhrubokinfotech/) | - |
+| **Divine IT Limited** | Uttara, Dhaka | Python, Django, Flask, SQLAlchemy, Django ORM, React, Node, Vue, Angular | [Website](https://www.divineit.net/) | [LinkedIn](https://www.linkedin.com/company/divineitlimited/) | ⭐ 2.5 |
+| **Dream71** | Bashundhara, Dhaka | PHP, Laravel, JavaScript, MySQL, Android, Flutter, iOS | [Website](http://www.dream71.com/) | [LinkedIn](https://www.linkedin.com/company/dream71-bangladesh-ltd-/) | - |
+| **Dynamic Solution Innovators** | Mohakhali, Dhaka | Java, Spring Boot, Node.js, Hibernate, ReactJs, NextJs, AngularJS, Android, iOS | [Website](http://www.dsinnovators.com) | [LinkedIn](https://www.linkedin.com/company/dsinnovators/) | ⭐ 3.9 |
+| **Enosis Solutions** | Gulshan, Dhaka | Java, PHP, Python, C# | [Website](http://enosisbd.com) | [LinkedIn](https://www.linkedin.com/company/enosis-solutions/) | ⭐ 4.1 |
+| **Evaly Limited** | Dhanmondi, Dhaka | NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL | [Website](https://evaly.com.bd/career/) | [LinkedIn](https://www.linkedin.com/company/evaly/) | - |
+| **Fieldbuzz** | Badda, Dhaka | Python, Django, Android, Java | [Website](https://www.field.buzz) | [LinkedIn](https://www.linkedin.com/company/fieldbuzz/) | - |
+| **Furqan Software** | Banani, Dhaka | Go, MongoDB, Redis, RabbitMQ, ElasticSearch, PHP, Laravel, JavaScript, React, Firebase | [Website](https://furqansoftware.com/) | [LinkedIn](https://www.linkedin.com/company/furqan-software/) | - |
 
 ## 🔍 How to Search & Filter
 
