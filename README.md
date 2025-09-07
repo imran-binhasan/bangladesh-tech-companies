@@ -82,6 +82,19 @@ This repository aims to provide:
 | **Kona Software Lab** | Dhaka | Java, Spring, C++, JavaScript, Android, Kotlin, AI, Blockchain | [Website](https://konasl.com) | [LinkedIn](https://www.linkedin.com/company/konasl/) | - |
 | **Kompass Technologies Limited** | Gulshan, Dhaka | Web Development, Mobile Development | [Website](https://hellokompass.com/) | [LinkedIn](https://www.linkedin.com/company/kompass-technologies-limited/) | - |
 
+### M - O
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **Magneto Digital** | Gulshan, Dhaka | Mobile App Development, Web Design & Development, Digital Marketing | [Website](http://magnitodigital.com/) | [LinkedIn](https://www.linkedin.com/company/magnito-digital/) | - |
+| **Mazegeek Technologies** | Banani, Dhaka | PHP, Laravel, .NET, Android, iOS, JavaScript, Node.js, Vue.js, Angular, React, Python, Ruby on Rails, AWS | [Website](https://www.mazegeek.com/) | [LinkedIn](https://www.linkedin.com/company/mazegeek/) | - |
+| **Medina Tech Ltd.** | Dhaka | Python, Node.js, Django, PHP, React, Next.js, Vue, AI, ML, Unity, AR, Android, iOS, React Native, AWS | [Website](https://www.medinatech.co/) | [LinkedIn](https://www.linkedin.com/company/medina-tech/) | - |
+| **MonstarLab Bangladesh** | Dhaka | Java Spring, Laravel, Symfony, NextJS, NestJS, Flutter, AWS | [Website](https://monstar-lab.com/bd/) | [LinkedIn](https://www.linkedin.com/company/monstar-lab-bangladesh/) | - |
+| **Nascenia** | Lalmatia, Dhaka | Ruby on Rails, Android, iOS, .NET, PHP | [Website](https://www.nascenia.com/) | [LinkedIn](https://www.linkedin.com/company/nascenia-it/) | - |
+| **Optimizely** | Dhaka | Python, NodeJS, Angular2, Scala, MongoDB | [Website](https://www.optimizely.com/) | [LinkedIn](https://www.linkedin.com/company/optimizely/) | - |
+| **Orange Toolz** | Uttara, Dhaka | Laravel, Android, iOS, .NET, AngularJS, React Native, NodeJS, CakePHP, Zend, Azure, AWS, Google Cloud, Xamarin | [Website](https://orangetoolz.com/) | [LinkedIn](https://www.linkedin.com/company/orange-toolz/) | - |
+| **Orbitax Bangladesh** | Dhaka | Java, JavaScript, Android, PHP | [Website](http://www.orbitax.com/) | [LinkedIn](https://www.linkedin.com/company/orbitaxbd/) | ⭐ 2.5 (Glassdoor) |
+
 
 ## 🔍 How to Search & Filter
 
