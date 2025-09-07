@@ -27,17 +27,17 @@ This repository aims to provide:
 | **Adventure Dhaka Limited** | Banani, Dhaka | Golang, Java, Swift, Flutter, JavaScript, React, Next.js, DevOps | [Website](https://adventurekk.com/company/about/) | [LinkedIn](https://www.linkedin.com/company/adventure-dhaka/) | - |
 | **All Generation Tech** | Dhaka | C#, .NET, Python, Go, MongoDB, Docker, Azure, Unqork | [Website](https://allgentech.bamboohr.com/careers) | [LinkedIn](https://www.linkedin.com/company/allgentech/) | - |
 | **Anchorblock Technology** | Dhaka | JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Solidity, ML, AWS | [Website](https://anchorblock.ai/) | [LinkedIn](https://www.linkedin.com/company/anchorblock/) | - |
-| **AppsCode Ltd.** | Dhaka | Golang, Docker, Kubernetes, Vue.js | [Website](https://www.appscode.com/) | [LinkedIn](https://www.linkedin.com/company/appscode/) | ⭐4.1 (Glassdoor) |
+| **AppsCode Ltd.** | Dhaka | Golang, Docker, Kubernetes, Vue.js | [Website](https://www.appscode.com/) | [LinkedIn](https://www.linkedin.com/company/appscode/) | ⭐ 4.1 (Glassdoor) |
 | **Appifydevs** | Mirpur, Dhaka | ReactJS, Nextjs, NestJS, NodeJS, Flutter, Laravel | [Website](https://www.appifydevs.com/) | [LinkedIn](https://www.linkedin.com/company/appifydevs/) | |
-| **Appifylab** | Sylhet | ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel | [Website](https://www.appifylab.com/) | [LinkedIn](https://www.linkedin.com/company/appifylab/) | ⭐2.6 (Glassdoor) |
+| **Appifylab** | Sylhet | ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel | [Website](https://www.appifylab.com/) | [LinkedIn](https://www.linkedin.com/company/appifylab/) | ⭐ 2.6 (Glassdoor) |
 | **Apurba Technologies Ltd.** | Mohakhali, Dhaka | Java, Python, PHP, Docker, Kubernetes, Spring, JavaScript, AWS, ML | [Website](http://apurba.com.bd) | [LinkedIn](https://www.linkedin.com/company/apurba-technologies-ltd) | - |
-| **Astha IT** | Dhaka | C#, .NET, Java, Spring Boot, JavaScript, React, Vue.js, Angular, Flutter, AWS, Docker, Kubernetes | [Website](https://www.asthait.com/) | [LinkedIn](https://www.linkedin.com/company/asthait/) |  ⭐4.1 (Glassdoor) |
+| **Astha IT** | Dhaka | C#, .NET, Java, Spring Boot, JavaScript, React, Vue.js, Angular, Flutter, AWS, Docker, Kubernetes | [Website](https://www.asthait.com/) | [LinkedIn](https://www.linkedin.com/company/asthait/) |  ⭐ 4.1 (Glassdoor) |
 | **ATI Limited** | Uttara, Dhaka | C#, PHP, .NET, Java, Spring Boot, JavaScript, React, Vue.js, Flutter, AWS, Docker | [Website](https://atilimited.net/) | [LinkedIn](https://www.linkedin.com/company/atilimited/) | - |
 | **Augmedix Inc.** | Dhaka | Android, Java, Spring, Go, JavaScript, AngularJS, NodeJS, AWS, ML | [Website](https://www.augmedix.com/) | [LinkedIn](https://www.linkedin.com/company/augmedix/) | - |
-| **Brain Station 23** | Mohakhali, Dhaka | Android, iOS, React, React Native, Odoo, Xamarin, .NET, PHP, Python, Java, AEM, Sitecore, Flutter | [Website](http://www.brainstation-23.com/) | [LinkedIn](https://www.linkedin.com/company/brain-station-23-plc/) | ⭐3.9 (Glassdoor) |
-| **BJIT Ltd.** | Baridhara, Dhaka | Java, JEE, Groovy, PHP, C#, Android, iOS, IoT, Fintech, AI | [Website](http://bjitgroup.com) | [LinkedIn](https://www.linkedin.com/company/bjit/) | ⭐3.3 (Glassdoor)|
-| **BRAC IT Services** | Gulshan, Dhaka | Java, Android, PHP | [Website](https://www.bracits.com) | [LinkedIn](https://www.linkedin.com/company/bracits/) | ⭐3.6 (Glassdoor)|
-| **Cefalo Bangladesh** | Dhanmondi, Dhaka | Android, .NET, Python, Rails, React, iOS | [Website](https://cefalo.com/) | [LinkedIn](https://www.linkedin.com/showcase/cefalobangladesh/) | ⭐4.6 (Glassdoor)|
+| **Brain Station 23** | Mohakhali, Dhaka | Android, iOS, React, React Native, Odoo, Xamarin, .NET, PHP, Python, Java, AEM, Sitecore, Flutter | [Website](http://www.brainstation-23.com/) | [LinkedIn](https://www.linkedin.com/company/brain-station-23-plc/) | ⭐ 3.9 (Glassdoor) |
+| **BJIT Ltd.** | Baridhara, Dhaka | Java, JEE, Groovy, PHP, C#, Android, iOS, IoT, Fintech, AI | [Website](http://bjitgroup.com) | [LinkedIn](https://www.linkedin.com/company/bjit/) | ⭐ 3.3 (Glassdoor)|
+| **BRAC IT Services** | Gulshan, Dhaka | Java, Android, PHP | [Website](https://www.bracits.com) | [LinkedIn](https://www.linkedin.com/company/bracits/) | ⭐ 3.6 (Glassdoor)|
+| **Cefalo Bangladesh** | Dhanmondi, Dhaka | Android, .NET, Python, Rails, React, iOS | [Website](https://cefalo.com/) | [LinkedIn](https://www.linkedin.com/showcase/cefalobangladesh/) | ⭐ 4.6 (Glassdoor)|
 | **Chaldal Engineering** | Banani, Dhaka | .NET, F#, C#, SQL Server, TypeScript, JavaScript, Xamarin, Android, React, React Native | [Website](https://chaldal.tech/) | [LinkedIn](https://www.linkedin.com/company/chaldal/) | - |
 | **Circle Fintech** | Dhaka | IoT, Blockchain, AI, React, JavaScript, Python, Node, Django | [Website](https://www.circlefintech.com/) | [LinkedIn](https://www.linkedin.com/company/circlefintech/) | - |
 | **CodersTrust** | Banani, Dhaka | WordPress, PHP, JavaScript/TypeScript, Python, Scala, Kubernetes, Lambda, AWS | [Website](https://coderstrust.global/) | [LinkedIn](https://www.linkedin.com/company/coderstrust/) | - |
@@ -47,16 +47,31 @@ This repository aims to provide:
 
 | Company | Location | Technologies | Website | LinkedIn | Rating |
 |---------|----------|--------------|---------|----------|--------|
-| **DataSoft** | Shyamoli, Dhaka | Java, Spring Boot, C#, .NET, Angular, Vue, jQuery | [Website](http://datasoft-bd.com/) | [LinkedIn](https://www.linkedin.com/company/datasoft-systems-bangladesh-limited/) | ⭐ 2.8 |
+| **DataSoft** | Shyamoli, Dhaka | Java, Spring Boot, C#, .NET, Angular, Vue, jQuery | [Website](http://datasoft-bd.com/) | [LinkedIn](https://www.linkedin.com/company/datasoft-systems-bangladesh-limited/) | ⭐ 2.8 (Glassdoor) |
 | **Danpite.Tech** | Mirpur, Dhaka | PHP, Laravel, Flutter, ReactJS | [Website](https://danpite.tech/) | [LinkedIn](https://www.linkedin.com/company/danpitetech/) | - |
 | **Dhrubok Infotech Services** | Shyamoli, Dhaka | Java, Spring Boot, JavaScript, React, NextJs, Android, iOS, Flutter | [Website](https://dhrubokinfotech.com/) | [LinkedIn](https://www.linkedin.com/company/dhrubokinfotech/) | - |
-| **Divine IT Limited** | Uttara, Dhaka | Python, Django, Flask, SQLAlchemy, Django ORM, React, Node, Vue, Angular | [Website](https://www.divineit.net/) | [LinkedIn](https://www.linkedin.com/company/divineitlimited/) | ⭐ 2.5 |
+| **Divine IT Limited** | Uttara, Dhaka | Python, Django, Flask, SQLAlchemy, Django ORM, React, Node, Vue, Angular | [Website](https://www.divineit.net/) | [LinkedIn](https://www.linkedin.com/company/divineitlimited/) | ⭐ 2.5 (Glassdoor) |
 | **Dream71** | Bashundhara, Dhaka | PHP, Laravel, JavaScript, MySQL, Android, Flutter, iOS | [Website](http://www.dream71.com/) | [LinkedIn](https://www.linkedin.com/company/dream71-bangladesh-ltd-/) | - |
-| **Dynamic Solution Innovators** | Mohakhali, Dhaka | Java, Spring Boot, Node.js, Hibernate, ReactJs, NextJs, AngularJS, Android, iOS | [Website](http://www.dsinnovators.com) | [LinkedIn](https://www.linkedin.com/company/dsinnovators/) | ⭐ 3.9 |
-| **Enosis Solutions** | Gulshan, Dhaka | Java, PHP, Python, C# | [Website](http://enosisbd.com) | [LinkedIn](https://www.linkedin.com/company/enosis-solutions/) | ⭐ 4.1 |
+| **Dynamic Solution Innovators** | Mohakhali, Dhaka | Java, Spring Boot, Node.js, Hibernate, ReactJs, NextJs, AngularJS, Android, iOS | [Website](http://www.dsinnovators.com) | [LinkedIn](https://www.linkedin.com/company/dsinnovators/) | ⭐ 3.9 (Glassdoor)|
+| **Enosis Solutions** | Gulshan, Dhaka | Java, PHP, Python, C# | [Website](http://enosisbd.com) | [LinkedIn](https://www.linkedin.com/company/enosis-solutions/) | ⭐ 4.1 (Glassdoor)|
 | **Evaly Limited** | Dhanmondi, Dhaka | NodeJS, ExpressJS, Python, Django, GoLang, REST, Microservices, SQL, NoSQL | [Website](https://evaly.com.bd/career/) | [LinkedIn](https://www.linkedin.com/company/evaly/) | - |
 | **Fieldbuzz** | Badda, Dhaka | Python, Django, Android, Java | [Website](https://www.field.buzz) | [LinkedIn](https://www.linkedin.com/company/fieldbuzz/) | - |
 | **Furqan Software** | Banani, Dhaka | Go, MongoDB, Redis, RabbitMQ, ElasticSearch, PHP, Laravel, JavaScript, React, Firebase | [Website](https://furqansoftware.com/) | [LinkedIn](https://www.linkedin.com/company/furqan-software/) | - |
+
+### G - I
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **GeeksSSort** | Dhaka | Laravel, Flutter, ReactJs, VueJS, NextJS, WordPress, Shopify, PHP | [Website](https://geekssort.com/) | [LinkedIn](https://www.linkedin.com/company/geekssort/) | - |
+| **Genex Infosys Limited** | Dhaka | AI, Cybersecurity, SaaS, Digital Marketing | [Website](http://genexinfosys.com/) | [LinkedIn](https://www.linkedin.com/company/genex-infosys-limited/) | - |
+| **Giga Tech Limited** | Gulshan, Dhaka | AI, Deep Learning, Blockchain, Java, Python, Django, JavaScript, .NET | [Website](https://gigatechltd.com/) | [LinkedIn](https://www.linkedin.com/company/giga-tech-limited/) | - |
+| **Grit Technologies Limited** | Kawran Bazar, Dhaka | JavaScript, Python, Go, PHP, PostgreSQL, MongoDB, React Native, Figma, Cypress, Docker, AWS | [Website](https://www.grit0.com/) | [LinkedIn](https://www.linkedin.com/company/grit-technologies/) | - |
+| **Hogarth Dhaka** | Banani, Dhaka | JavaScript, HTML, CSS, React, Node, AWS | [Website](https://www.hogarth.com/careers) | [LinkedIn](https://www.linkedin.com/company/hogarth-worldwide/) | - |
+| **IBCS-Primax** | Dhanmondi, Dhaka | Java, Spring | [Website](http://www.ibcs-primax.com/ibcsonweb/) | [LinkedIn](https://www.linkedin.com/company/ibcs-primax-software-bangladesh-ltd./) | - |
+| **IBOS Limited** | Lalmatia, Dhaka | JavaScript, React, Java, PHP, MySQL | [Website](https://www.ibos.io) | [LinkedIn](https://www.linkedin.com/company/ibos/) | - |
+| **iPay** | Gulshan, Dhaka | Android, Java, HTML, CSS, MongoDB, PostgreSQL | [Website](https://www.ipay.com.bd/) | [LinkedIn](https://www.linkedin.com/company/ipay-systems-ltd./) | - |
+| **IQVIA, Dhaka** | Dhaka | .NET, Python, JavaScript, Angular | [Website](https://www.iqvia.com/) | [LinkedIn](https://www.linkedin.com/company/iqvia/) | - |
+
 
 ## 🔍 How to Search & Filter
 
