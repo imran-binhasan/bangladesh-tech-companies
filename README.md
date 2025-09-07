@@ -72,6 +72,16 @@ This repository aims to provide:
 | **iPay** | Gulshan, Dhaka | Android, Java, HTML, CSS, MongoDB, PostgreSQL | [Website](https://www.ipay.com.bd/) | [LinkedIn](https://www.linkedin.com/company/ipay-systems-ltd./) | - |
 | **IQVIA, Dhaka** | Dhaka | .NET, Python, JavaScript, Angular | [Website](https://www.iqvia.com/) | [LinkedIn](https://www.linkedin.com/company/iqvia/) | - |
 
+### J - L
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **Jatri Services Limited** | Gulshan, Dhaka | Web App, Mobile App, IoT | [Website](https://www.jatri.co) | [LinkedIn](https://www.linkedin.com/company/jatri/) | - |
+| **Joomshaper** | Dhaka | Joomla, WordPress, HTML5, CSS3, JavaScript, React | [Website](https://www.joomshaper.com) | [LinkedIn](https://www.linkedin.com/company/joomshaper/) | - |
+| **Kaz Software** | Dhaka | .NET, Java, PHP, AngularJS, React | [Website](http://kaz.com.bd/) | [LinkedIn](https://www.linkedin.com/company/kaz-software-limited/) | - |
+| **Kona Software Lab** | Dhaka | Java, Spring, C++, JavaScript, Android, Kotlin, AI, Blockchain | [Website](https://konasl.com) | [LinkedIn](https://www.linkedin.com/company/konasl/) | - |
+| **Kompass Technologies Limited** | Gulshan, Dhaka | Web Development, Mobile Development | [Website](https://hellokompass.com/) | [LinkedIn](https://www.linkedin.com/company/kompass-technologies-limited/) | - |
+
 
 ## 🔍 How to Search & Filter
 
