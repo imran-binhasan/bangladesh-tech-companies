@@ -95,6 +95,17 @@ This repository aims to provide:
 | **Orange Toolz** | Uttara, Dhaka | Laravel, Android, iOS, .NET, AngularJS, React Native, NodeJS, CakePHP, Zend, Azure, AWS, Google Cloud, Xamarin | [Website](https://orangetoolz.com/) | [LinkedIn](https://www.linkedin.com/company/orange-toolz/) | - |
 | **Orbitax Bangladesh** | Dhaka | Java, JavaScript, Android, PHP | [Website](http://www.orbitax.com/) | [LinkedIn](https://www.linkedin.com/company/orbitaxbd/) | ⭐ 2.5 (Glassdoor) |
 
+### P - R
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **Pathao Ltd** | Gulshan, Dhaka | Android, iOS, Go, PHP, Kubernetes | [Website](https://pathao.com/) | [LinkedIn](https://www.linkedin.com/company/pathao/) | ⭐ 3.9 (Glassdoor) |
+| **Penta Global Ltd** | Gulshan, Dhaka | Java, Python, React, Node, PostgreSQL, Kubernetes | [Website](https://www.pentabd.com/) | [LinkedIn](https://www.linkedin.com/company/penta-global/) | - |
+| **Portonics Limited** | Gulshan, Dhaka | Android, iOS, PHP, React, Docker, AWS, NodeJS, Python, PostgreSQL, MySQL | [Website](http://portonics.com/) | [LinkedIn](https://www.linkedin.com/company/portonics/) | ⭐ 3.9 (Glassdoor) |
+| **Pridesys IT Limited** | Kawranbazar, Dhaka | PHP, WordPress, JavaScript, MySQL, jQuery | [Website](https://pridesys.com) | [LinkedIn](https://www.linkedin.com/company/pridesys-it-ltd/) | - |
+| **ReliSource** | Gulshan, Dhaka | Desktop, Mobile, Web, System & Network, Cloud Computing, AWS, Azure, DevOps | [Website](http://www.relisource.com) | [LinkedIn](https://www.linkedin.com/company/relisource/) | ⭐ 3.3 (Glassdoor) |
+| **REVE Systems** | Khilkhet, Dhaka | Java, IP & VoIP service, Cloud Computing | [Website](https://www.revesoft.com/) | [LinkedIn](https://www.linkedin.com/company/reve-systems/) | ⭐ 2.3 (Glassdoor) |
+| **RiseUp Labs** | Uttara, Dhaka | Flutter, Swift, Kotlin, TypeScript, React, Java, Django, NodeJS, SQL | [Website](https://riseuplabs.com) | [LinkedIn](https://www.linkedin.com/company/riseuplabs/) | - |
 
 ## 🔍 How to Search & Filter
 
