@@ -1,11 +1,6 @@
 # 🇧🇩 Bangladesh Tech Companies
 
 A list of technology companies in **Bangladesh** to help developers discover job opportunities and explore the local tech ecosystem.  
-
-[![GitHub stars](https://img.shields.io/github/stars/emran-binhasan/bangladesh-tech-companies?style=flat-square)](https://github.com/emran-binhasan/bangladesh-tech-companies/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/emran-binhasan/bangladesh-tech-companies?style=flat-square)](https://github.com/emran-binhasan/bangladesh-tech-companies/network/members)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](http://makeapullrequest.com)
-
 ---
 
 ## 📌 Overview
