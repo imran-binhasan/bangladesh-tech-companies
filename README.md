@@ -124,6 +124,19 @@ This repository aims to provide:
 | **Therap (BD) Ltd.** | Banani, Dhaka | Java, J2EE | [Website](https://therap.recruiterbox.com/) | [LinkedIn](https://www.linkedin.com/company/therapbd/) | ⭐ 3.5 (Glassdoor) |
 | **TigerIT Bangladesh Ltd.** | Banani, Dhaka | Java | [Website](http://www.tigerit.com/) | [LinkedIn](https://www.linkedin.com/company/tigerit-bangladesh-limited/) | ⭐ 3.4 (Glassdoor) |
 
+
+### V - Z
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **Vantage Labs** | Mirpur, Dhaka | Java, PHP, AngularJS | [Website](https://www.vantage.com/) | [LinkedIn](https://www.linkedin.com/company/vantage-labs-dhaka/) | - |
+| **Vivasoft Limited** | Banani, Dhaka | Java, C#, React.js, GoLang, Python, Flutter | [Website](https://www.vivasoftltd.com/) | [LinkedIn](https://www.linkedin.com/company/vivasoftltd/) | ⭐ 4.1 (Glassdoor) |
+| **WellDev** | Baridhara, Dhaka | Ruby on Rails, Android, iOS, ReactJS | [Website](https://www.welldev.io/) | [LinkedIn](https://www.linkedin.com/company/welldevintl/) | ⭐ 4.4 (Glassdoor) |
+| **Workspace InfoTech Limited** | Khilkhet, Dhaka | Java, Spring, Python, Django, Angular, ReactJS | [Website](https://www.workspaceit.com) | [LinkedIn](https://www.linkedin.com/company/workspace-infotech/) | ⭐ 3.9 (Glassdoor) |
+| **weDevs Ltd** | Mirpur, Dhaka | PHP, WordPress, VueJs, Flutter | [Website](https://wedevs.com) | [LinkedIn](https://www.linkedin.com/company/wedevs/) | - |
+| **Zaynax Limited** | Gulshan, Dhaka | JavaScript, Node, React, Next, MongoDB, Android, iOS | [Website](http://www.zaynax.com) | [LinkedIn](https://www.linkedin.com/company/zaynax/) | - |
+
+
 ## 🔍 How to Search & Filter
 
 ### Quick Search Tips:
