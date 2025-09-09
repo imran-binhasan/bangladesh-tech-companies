@@ -107,6 +107,23 @@ This repository aims to provide:
 | **REVE Systems** | Khilkhet, Dhaka | Java, IP & VoIP service, Cloud Computing | [Website](https://www.revesoft.com/) | [LinkedIn](https://www.linkedin.com/company/reve-systems/) | ⭐ 2.3 (Glassdoor) |
 | **RiseUp Labs** | Uttara, Dhaka | Flutter, Swift, Kotlin, TypeScript, React, Java, Django, NodeJS, SQL | [Website](https://riseuplabs.com) | [LinkedIn](https://www.linkedin.com/company/riseuplabs/) | - |
 
+### S - U
+
+| Company | Location | Technologies | Website | LinkedIn | Rating |
+|---------|----------|--------------|---------|----------|--------|
+| **Samsung R&D Institute Bangladesh** | Dhaka | Windows, iOS, Android, Tizen, C/C++, Java, Objective-C, Swift, C#, Kotlin, Spring, WPF, UWP, MFC, ML | [Website](https://research.samsung.com/srbd) | [LinkedIn](https://www.linkedin.com/company/samsung/) | ⭐ 3.6 (Glassdoor) |
+| **SELISE Digital Platforms** | Dhaka | Android, iOS, AngularJS, NodeJS, Python, .NET | [Website](https://selisegroup.com/) | [LinkedIn](https://www.linkedin.com/company/selise/) | ⭐ 3.6 (Glassdoor) |
+| **Sheba Technologies Limited** | Mohakhali, Dhaka | Java, C, C++, Android, ASP.NET | [Website](https://www.shebatech.com.bd/) | [LinkedIn](https://www.linkedin.com/company/sheba-technologies/) | - |
+| **ShellBeeHaken** | Mirpur, Dhaka | Java, JavaScript, React, Next.js, Electron, React Native, Node, Spring Boot, REST API, MongoDB, MySQL, Redis, AWS | [Website](https://shellbeehaken.com/) | [LinkedIn](https://www.linkedin.com/company/shellbeehaken/) | - |
+| **Silicon Orchard Limited** | Mirpur, Dhaka | PHP, NodeJS, ReactJS, Blockchain, Android, iOS | [Website](https://www.siliconorchard.com/) | [LinkedIn](https://www.linkedin.com/company/silicon-orchard/) | - |
+| **Spring Rain IT** | Dhaka | JavaScript, Node, React, React Native, Android | [Website](https://springrainit.com) | [LinkedIn](https://www.linkedin.com/company/spring-rain/) | ⭐ 3.8 (Glassdoor) |
+| **SSL Wireless** | Dhaka | Java, JavaScript, PHP, Laravel, MySQL | [Website](https://www.sslwireless.com/) | [LinkedIn](https://www.linkedin.com/company/ssl-wireless/) | - |
+| **Strativ BD Ltd.** | Dhaka | Python, Django, JavaScript, React, React Native, VueJS, NodeJS, PHP, Magento, WordPress, Android | [Website](https://strativ.se/en/) | [LinkedIn](https://www.linkedin.com/company/strativ/) | - |
+| **Systems Solutions & Development Technologies** | Gulshan, Dhaka | C/C++, PHP, MySQL, Java, Node JS, Big Data, HTML, CSS, Linux | [Website](https://ssd-tech.io/) | [LinkedIn](https://www.linkedin.com/company/ssd-tech/) | - |
+| **TechnoVista Limited** | Khilkhet, Dhaka | .NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle | [Website](https://technovista.com.bd/) | [LinkedIn](https://www.linkedin.com/company/technovista.bd/) | - |
+| **Therap (BD) Ltd.** | Banani, Dhaka | Java, J2EE | [Website](https://therap.recruiterbox.com/) | [LinkedIn](https://www.linkedin.com/company/therapbd/) | ⭐ 3.5 (Glassdoor) |
+| **TigerIT Bangladesh Ltd.** | Banani, Dhaka | Java | [Website](http://www.tigerit.com/) | [LinkedIn](https://www.linkedin.com/company/tigerit-bangladesh-limited/) | ⭐ 3.4 (Glassdoor) |
+
 ## 🔍 How to Search & Filter
 
 ### Quick Search Tips:
